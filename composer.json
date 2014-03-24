@@ -1,0 +1,8 @@
+{
+    "require":{
+        "fuzzysteve/eve-prices":"dev-master",
+        "predis/predis": "*",
+        "3rdpartyeve/phealng": "*",
+        "smarty/smarty": "3.1.*"
+   }
+}
